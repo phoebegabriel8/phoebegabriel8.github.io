@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "phoebegabriel8.github.io",
+  "Id": "8f20ba8f-da18-407e-88a0-c8da1c25cd2e"
+}
